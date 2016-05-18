@@ -1,0 +1,8 @@
+venv/
+data/
+*.txt
+*.pdf
+*.class
+build/
+*.pyc
+.gradle/
